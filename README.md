@@ -1,2 +1,3 @@
-# Core-Data-Unhinged
-#PragmaConf15 Core Data Unhinged workshop sample code.
+## Core-Data-Unhinged
+
+PragmaConf15 Core Data Unhinged workshop sample code.
